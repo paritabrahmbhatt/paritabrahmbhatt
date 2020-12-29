@@ -8,4 +8,4 @@ I am an under graduate student of Electronics and Communication Engineering at G
 - ⚡ Fun fact: I can speak four languages
 
 <a href="https://github.com/paritabrahmbhatt/paritabrahmbhatt">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paritabrahmbhatt&hide=,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paritabrahmbhatt&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
