@@ -5,6 +5,7 @@ I am an undergraduate student of Electronics and Communication Engineering at Go
 - 🔭 I’m currently working on my final year project named Indian Medicinal Plant Classifier
 - 🌱 I’m currently learning data analysis tools and techniques
 - 👯 I’m looking to collaborate with women in tech
+-📫  How to reach me: paritabrahmbhatt99@gmail.com
 - ⚡ Fun fact: I can speak four languages
 
 <a href="https://github.com/paritabrahmbhatt/paritabrahmbhatt">
