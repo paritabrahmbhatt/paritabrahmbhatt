@@ -9,5 +9,5 @@ I am an undergraduate student of Electronics and Communication Engineering at Go
 - ⚡ Fun fact: I can speak four languages
  
 <a href="https://github.com/paritabrahmbhatt/paritabrahmbhatt">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paritabrahmbhatt&layout=compact&theme=material-palenight&title_color=ffffff&text_color=2bbc8a&bg" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paritabrahmbhatt&layout=compact&theme=material-palenight&title_color=ffffff" />
 </a>
