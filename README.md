@@ -13,5 +13,5 @@ I am an undergraduate student of Electronics and Communication Engineering at Go
  </a>
  
 <a href="https://github.com/paritabrahmbhatt/paritabrahmbhatt">
-  <img align="center" src="https://github-readme-stats.paritabrahmbhatt.vercel.app/api/top-langs/?username=paritabrahmbhatt&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paritabrahmbhatt&layout=compact&theme=material-palenight" />
 </a>
