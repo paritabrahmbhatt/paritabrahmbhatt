@@ -7,11 +7,7 @@ I am an undergraduate student of Electronics and Communication Engineering at Go
 - 👯 I’m looking to collaborate with women in tech
 - 📫  How to reach me: paritabrahmbhatt99@gmail.com
 - ⚡ Fun fact: I can speak four languages
-
-<a href="https://github.com/paritabrahmbhatt/paritabrahmbhatt">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paritabrahmbhatt&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
- </a>
  
 <a href="https://github.com/paritabrahmbhatt/paritabrahmbhatt">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paritabrahmbhatt&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paritabrahmbhatt&layout=compact&theme=material-palenight&title_color=ffffff&text_color=2bbc8a&bg" />
 </a>
