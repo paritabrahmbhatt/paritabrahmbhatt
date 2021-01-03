@@ -10,3 +10,7 @@ I am an undergraduate student of Electronics and Communication Engineering at Go
 
 <a href="https://github.com/paritabrahmbhatt/paritabrahmbhatt">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paritabrahmbhatt&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/paritabrahmbhatt/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.paritabrahmbhatt.vercel.app/api/top-langs/?username=paritabrahmbhatt&layout=compact&theme=material-palenight" />
+</a>
