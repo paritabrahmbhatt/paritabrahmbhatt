@@ -7,7 +7,6 @@ I am an Electronics and Communication Engineer and a data science enthusiast. Cu
 - 👯 I’m looking to collaborate with machine learning and data science projects
 - 📫  How to reach me: paritabrahmbhatt99@gmail.com
 - 😄 She/Her
-- ⚡ Fun fact: I can speak four languages
  
 <a href="https://github.com/paritabrahmbhatt/paritabrahmbhatt">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paritabrahmbhatt&layout=compact&theme=material-palenight&title_color=ffffff" />
