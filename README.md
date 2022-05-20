@@ -1,9 +1,9 @@
 ### Hi there, I am Parita! 👋
 
-I am an Electronics and Communication Engineer and a data science enthusiast. Curruntly, I am working on a system which can help a person  to manage their finances. I am open to new and exciting career opportunities.
+I am a Master's Student at School of Computing at Clemson University and a data science enthusiast. I have completed my Bachelor's in Electronics and Communication Engineering. Curruntly, I am working on a system which can help a person to manage their finances. I am open to new and exciting Internship Opportunitied for Spring 2023/Summer 2023.
 
-- 🔭 I’m currently working on a financial management system
-- 🌱 I’m currently learning Java, Data Structures and algorithms
+- 🔭 I’m currently working on building a financial management system
+- 🌱 I’m currently learning Machine Learning and SQL
 - 👯 I’m looking to collaborate with machine learning and data science projects
 - 📫  How to reach me: paritabrahmbhatt99@gmail.com
 - 😄 She/Her
