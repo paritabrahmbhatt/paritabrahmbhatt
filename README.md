@@ -5,7 +5,7 @@ I am a Master's Student at School of Computing at Clemson University and a data 
 - 🔭 I’m currently working on building a financial management system
 - 🌱 I’m currently learning Machine Learning and SQL
 - 👯 I’m looking to collaborate with machine learning and data science projects
-- 📫  How to reach me: paritabrahmbhatt99@gmail.com
+- 📫  How to reach me: pbrahmb@g.clemson.edu
 - 😄 She/Her
  
 <a href="https://github.com/paritabrahmbhatt/paritabrahmbhatt">
