@@ -12,10 +12,3 @@ I am a Master's Student at School of Computing at Clemson University and a data 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paritabrahmbhatt&layout=compact&theme=material-palenight&title_color=ffffff" />
 </a>
 
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=paritabrambhatt">
-</a>
-<a href="https://github.com/aayushbrahmbhatt?tab=followers"><img
-        src="https://img.shields.io/github/followers/paritabrahmbhatt?label=Followers&style=social"
-        alt="GitHub Badge"></a>
