@@ -1,4 +1,4 @@
-### Hi there, I am Parita! 👋
+### Hello there, I am Parita! 👋
 
 I am a data scientist and software developer with excellent leadership skills. I am pursuing my Master's in Computer Science at Clemson University, and I am working as a Graduate Student Assistant at International Services at Clemson University. I am open to new and exciting Internship and full time Opportunities from January 2023, and May 2023 respectively. 
 
