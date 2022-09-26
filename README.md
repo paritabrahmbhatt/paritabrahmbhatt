@@ -1,9 +1,9 @@
 ### Hi there, I am Parita! 👋
 
-I am a Master's Student at School of Computing at Clemson University and a data science enthusiast. I have completed my Bachelor's in Electronics and Communication Engineering. I am open to new and exciting Internship Opportunities for Spring 2023/Summer 2023.
+I am a data scientist and software developer with excellent leadership skills. I am pursuing my Master's in Computer Science at Clemson University, and I am working as a Graduate Student Assistant at International Services at Clemson University. I am open to new and exciting Internship and full time Opportunities from January 2023, and May 2023 respectively. 
 
-- 🔭 I’m currently working on building a financial management system
-- 🌱 I’m currently learning Machine Learning and ROS
+- 🔭 I’m currently working on working on data of International Students at Clemson University
+- 🌱 I’m currently learning Artifician Intelligentce and Database Management
 - 👯 I’m looking to collaborate with machine learning and data science projects
 - 📫  How to reach me: pbrahmb@g.clemson.edu
 - 😄 She/Her
