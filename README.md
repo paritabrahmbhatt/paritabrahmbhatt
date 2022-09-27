@@ -1,4 +1,4 @@
-### Hello there, I am Parita! 👋
+## Hello there, I am Parita! 👋
 
 I am a data scientist and software developer with excellent leadership skills. I am pursuing my Master's in Computer Science at Clemson University, and I am working as a Graduate Student Assistant at International Services at Clemson University. I am open to new and exciting Internship and full time Opportunities from January 2023, and May 2023 respectively. 
 
@@ -8,7 +8,7 @@ I am a data scientist and software developer with excellent leadership skills. I
 - 📫  How to reach me: pbrahmb@g.clemson.edu
 - 😄 She/Her
 
-## 🚀 Languages and Tools:
+### 🚀 Languages and Tools:
 <p align="center"> 
 <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png height='40' weight='40'/>
   <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png  height='40' weight='40'/>
@@ -19,10 +19,12 @@ I am a data scientist and software developer with excellent leadership skills. I
   <img src=https://cdn.345tool.com/public/logos/css-formatter-logo.png height='40'  weight='40'/> 
   <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/javascript.svg height='40' weight='40'/>
   <img src="https://img.icons8.com/fluency/344/rstudio.png" height='40' weight='40'/>
+  <img src="https://img.icons8.com/fluency/344/rstudio.png" height='40' weight='40'/>
+  
 
 </p>
 
-## Connect with me:
+### Connect with me:
 
 <p align="left">
 
@@ -31,7 +33,7 @@ I am a data scientist and software developer with excellent leadership skills. I
 
 </p>
 
-## ❤ Views and Followers
+### ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=paritabrambhatt">
 </a>
@@ -40,7 +42,7 @@ I am a data scientist and software developer with excellent leadership skills. I
         alt="GitHub Badge">
 </a>
 
- 
+### 
 <a href="https://github.com/paritabrahmbhatt/paritabrahmbhatt">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paritabrahmbhatt&layout=compact&theme=material-palenight&title_color=ffffff" />
 </a>
