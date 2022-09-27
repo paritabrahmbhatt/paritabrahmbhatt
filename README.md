@@ -19,7 +19,7 @@ I am a data scientist and software developer with excellent leadership skills. I
   <img src=https://cdn.345tool.com/public/logos/css-formatter-logo.png height='40'  weight='40'/> 
   <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/javascript.svg height='40' weight='40'/>
   <img src="https://img.icons8.com/fluency/344/rstudio.png" height='40' weight='40'/>
-  <img src="https://img.icons8.com/fluency/344/rstudio.png" height='40' weight='40'/>
+  <img src="https://img.icons8.com/color/344/tableau-software.png" height='40' weight='40'/>
   
 
 </p>
