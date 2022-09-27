@@ -7,6 +7,38 @@ I am a data scientist and software developer with excellent leadership skills. I
 - 👯 I’m looking to collaborate with machine learning and data science projects
 - 📫  How to reach me: pbrahmb@g.clemson.edu
 - 😄 She/Her
+
+## 🚀 Languages and Tools:
+<p align="center"> 
+<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png height='40' weight='40'/>
+  <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png  height='40' weight='40'/>
+  <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png height='40' weight='40'/>
+   <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+  <img src=https://github.com/shantanutyagi67/shantanutyagi67/blob/main/matlab.png  height='40' weight='40'/>
+  <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/html5.svg height='40' weight='40'/>
+  <img src=https://cdn.345tool.com/public/logos/css-formatter-logo.png height='40'  weight='40'/> 
+  <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/javascript.svg height='40' weight='40'/>
+  <img src="https://img.icons8.com/fluency/344/rstudio.png" height='40' weight='40'/>
+
+</p>
+
+## Connect with me:
+
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/parita-brahmbhatt-908148159/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "mailto:paritabrahmbhatt1@gmail.com"><img src="https://icons8.com/icon/P7UIlhbpWzZm/gmail-new.png"/></a>
+
+</p>
+
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=paritabrambhatt">
+</a>
+<a href="https://github.com/aayushbrahmbhatt?tab=followers"><img
+        src="https://img.shields.io/github/followers/paritabrahmbhatt?label=Followers&style=social"
+        alt="GitHub Badge"></a>
+
  
 <a href="https://github.com/paritabrahmbhatt/paritabrahmbhatt">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paritabrahmbhatt&layout=compact&theme=material-palenight&title_color=ffffff" />
