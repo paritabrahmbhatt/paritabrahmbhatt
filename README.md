@@ -27,7 +27,7 @@ I am a data scientist and software developer with excellent leadership skills. I
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/parita-brahmbhatt-908148159/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "mailto:paritabrahmbhatt1@gmail.com"><img src="https://icons8.com/icon/P7UIlhbpWzZm/gmail-new.png"/></a>
+<a href = "mailto:paritabrahmbhatt1@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail-new.png"/></a>
 
 </p>
 
@@ -37,7 +37,8 @@ I am a data scientist and software developer with excellent leadership skills. I
 </a>
 <a href="https://github.com/aayushbrahmbhatt?tab=followers"><img
         src="https://img.shields.io/github/followers/paritabrahmbhatt?label=Followers&style=social"
-        alt="GitHub Badge"></a>
+        alt="GitHub Badge">
+</a>
 
  
 <a href="https://github.com/paritabrahmbhatt/paritabrahmbhatt">
