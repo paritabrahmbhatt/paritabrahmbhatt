@@ -5,7 +5,7 @@ I am a data scientist and software developer with excellent leadership skills. I
 - 🔭 I’m currently working on the data of University students to gain valuable insights
 - 🌱 I’m currently learning Artificial Intelligentce and Database Management
 - 👯 I’m looking to collaborate with machine learning and data science projects
-- 📫  How to reach me: pbrahmb@g.clemson.edu
+- 📫  How to reach me: paritabrahmbhatt1@gmail.com
 - 😄 She/Her
 
 ### 🚀 Languages and Tools:
