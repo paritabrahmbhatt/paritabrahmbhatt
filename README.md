@@ -43,8 +43,8 @@ I am a data scientist and software developer with excellent leadership skills. I
         alt="GitHub Badge">
 </a>
 
-[### 
-<a href="https://github.com/paritabrahmbhatt/paritabrahmbhatt">
+ 
+<!--a href="https://github.com/paritabrahmbhatt/paritabrahmbhatt">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paritabrahmbhatt&layout=compact&theme=material-palenight&title_color=ffffff" />
-</a>]
+</a>-->
 
