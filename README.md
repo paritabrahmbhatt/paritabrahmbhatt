@@ -1,13 +1,13 @@
 ## Hello there, I am Parita! 👋
 
-I am a data scientist and software developer with excellent leadership skills. I am pursuing my Master's in Computer Science at Clemson University, and I am working as a Graduate Student Assistant at International Services at Clemson University. I am open to new and exciting Opportunities from May 2023. 
+I am a data analyst with an ability to work across diverse database management systems. I am working as a Graduate Student Assistant at International Services of Clemson University. I am open to new and exciting Opportunities from May 2023. 
 
-- 🔭 I’m currently developing a 2-D game of Pong.
-- 🌱 I’m currently learning Database Management and visualization
-- 👯 I’m looking to collaborate with data science projects
+- 🎓 I am pursuing my Master's in Computer Science at Clemson University.
+- 👩🏻‍💻 I’m currently developing a 2-D platformer game.
+- 🌱 I’m intensuvely developing my skills in data visualization.
 - 📫  How to reach me: paritabrahmbhatt1@gmail.com
 - 😄 She/Her
-
+- 🏋️ 
 ### 🚀 Languages and Tools:
 <p align="center"> 
 <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png height='40' weight='40'/>
