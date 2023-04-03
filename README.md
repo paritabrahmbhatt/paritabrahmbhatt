@@ -4,10 +4,10 @@ I am a data analyst with an ability to work across diverse database management s
 
 - 🎓 I am pursuing my Master's in Computer Science at Clemson University.
 - 👩🏻‍💻 I’m currently developing a 2-D platformer game.
-- 🌱 I’m intensuvely developing my skills in data visualization.
+- 🌱 I’m intensively developing my skills in data visualization.
 - 📫  How to reach me: paritabrahmbhatt1@gmail.com
 - 😄 She/Her
-- 🏋️ 
+- 🏋󠀢󠀢 It always seems impossible, until it's done...
 ### 🚀 Languages and Tools:
 <p align="center"> 
 <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png height='40' weight='40'/>
