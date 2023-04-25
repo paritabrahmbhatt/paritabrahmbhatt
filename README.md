@@ -1,8 +1,9 @@
+<h1 align="center"> Hi there 👋 I'm Parita Brahmbhatt</h1>
 <p align = "center">
   <img style="margin: 0 auto" height="auto"  width="500" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif"/>
 </p>
-## Hello there, I am Parita! 👋
 
+<h3> 💫 About Me: </h3>
 I am a data analyst with an ability to work across diverse database management systems. I am working as a Graduate Student Assistant at International Services of Clemson University. I am open to new and exciting Opportunities from May 2023. 
 
 - 🎓 I am pursuing my Master's in Computer Science at Clemson University.
