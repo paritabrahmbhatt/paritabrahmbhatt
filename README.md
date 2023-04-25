@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋 I'm Parita Brahmbhatt</h1>
 <p align = "center">
-  <img style="margin: 0 auto" height="auto"  width="500" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif"/>
+  <img style="margin: 0 auto" height="auto"  width="200" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif"/>
 </p>
 
 <h3> 💫 About Me: </h3>
