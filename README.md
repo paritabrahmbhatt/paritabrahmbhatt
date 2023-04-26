@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋 I'm Parita Brahmbhatt</h1>
+# Hello World! 👋
 
 [![PBs Welcome](https://img.shields.io/badge/PRs-welcome-edb0fc.svg?style=flat&logo=github)](https://github.com/paritabrahmbhatt)
 <img alt="VISITORS" src="https://komarev.com/ghpvc/?username=ndleah&style=flat&labelColor=edb0fc&logo=github&label=PROFILE+VIEWS&color=edb0fc"/>
@@ -14,18 +14,24 @@
   <img align="left" alt="Parita's Gmail" width="22px" src="https://img.icons8.com/fluent/48/000000/gmail-new.png"/>
 </a>
 
-## 💫 About Me: 
+</br>
+## I'm [**Parita**](https://www.linkedin.com/in/ndleah/) and welcome to my GitHub profile! :octocat:
 <img style="margin: 0 auto" align='right' height="auto"  width="350" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif"/>
+
+I'm a **`Data Science practitioner`**, an **`Software Developer`** and a **`Grad Student`**!
+
+## 💫 About Me: 
+
 I am a data analyst with an ability to work across diverse database management systems. I am working as a Graduate Student Assistant at International Services of Clemson University. I am open to new and exciting Opportunities from May 2023. 
 
-- 🎓 I am pursuing my Master's in Computer Science at Clemson University.
+- 👩‍🎓 I am pursuing my Master's Degree in Computer Science from [**Clemson University**](https://www.clemson.edu/) to improve my knowledge in Data Science.
 - 👩🏻‍💻 I’m currently developing a 2-D platformer game.
-- 🌱 I’m intensively developing my skills in data visualization.
-- 📫  How to reach me: paritabrahmbhatt1@gmail.com
-- 📈 
+- 🌱 I’m intensively developing my skills in machine learning and data visualization.
+- 📫 How to reach me: paritabrahmbhatt1@gmail.com
+- 📈 I have a strong interest in utilizing **`machine learning`**, **`predictive analytics`**, and statistical models to tackle unique and challenging business problems.
 - 🏋󠀢󠀢 It always seems impossible, until it's done...
 - 😄 She/Her
-### 🚀 Languages and Tools:
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **Languages and Tools:**
 <p align="center"> 
 <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png height='40' weight='40'/>
   <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png  height='40' weight='40'/>
@@ -41,27 +47,4 @@ I am a data analyst with an ability to work across diverse database management s
   
 
 </p>
-
-### Connect with me:
-
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/parita-brahmbhatt-908148159/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "mailto:paritabrahmbhatt1@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail-new.png"/></a>
-
-</p>
-
-### ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=paritabrambhatt">
-</a>
-<a href="https://github.com/aayushbrahmbhatt?tab=followers"><img
-        src="https://img.shields.io/github/followers/paritabrahmbhatt?label=Followers&style=social"
-        alt="GitHub Badge">
-</a>
-
- 
-<!--a href="https://github.com/paritabrahmbhatt/paritabrahmbhatt">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paritabrahmbhatt&layout=compact&theme=material-palenight&title_color=ffffff" />
-</a>-->
 
