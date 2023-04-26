@@ -1,8 +1,8 @@
 <h1 align="center"> Hi there 👋 I'm Parita Brahmbhatt</h1>
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-15577340.svg?style=flat&logo=github)](https://github.com/paritabrahmbhatt)
-<img alt="VISITORS" src="https://komarev.com/ghpvc/?username=paritabrahmbhatt&style=flat&labelColor=15577340&logo=github&label=PROFILE+VIEWS&color=15577340"/>
-<img alt="FOLLOWERS" src="https://img.shields.io/github/followers/paritabrahmbhatt?color=15577340&logo=githubb&label=FOLLOWERS"/>
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-#edb0fc.svg?style=flat&logo=github)](https://github.com/paritabrahmbhatt)
+<img alt="VISITORS" src="https://komarev.com/ghpvc/?username=paritabrahmbhatt&style=flat&labelColor=#edb0fc&logo=github&label=PROFILE+VIEWS&color=#edb0fc"/>
+<img alt="FOLLOWERS" src="https://img.shields.io/github/followers/paritabrahmbhatt?color=#edb0fc&logo=githubb&label=FOLLOWERS"/>
 
 <a href = "https://www.linkedin.com/in/parita-brahmbhatt-908148159/">
   <img width="22px" alt="Parita's LinkedIn" align="left" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
