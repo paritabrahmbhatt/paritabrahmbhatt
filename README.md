@@ -15,7 +15,7 @@
 </a>
 
 </br>
-## I'm [**Parita**](https://www.linkedin.com/in/ndleah/) and welcome to my GitHub profile! :octocat:
+## I'm [**Parita**](https://www.linkedin.com/in/parita-brahmbhatt-908148159/) and welcome to my GitHub profile! :octocat:
 <img style="margin: 0 auto" align='right' height="auto"  width="350" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif"/>
 
 I'm a **`Data Science practitioner`**, an **`Software Developer`** and a **`Grad Student`**!
