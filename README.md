@@ -33,6 +33,8 @@ I am a data analyst with an ability to work across diverse database management s
 - 📈 I have a strong interest in utilizing **`machine learning`**, **`predictive analytics`**, and statistical models to tackle unique and challenging business problems.
 - 🏋󠀢󠀢 It always seems impossible, until it's done...
 - 😄 She/Her
+
+
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **Languages and Tools:**
 <p align="center"> 
 <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png height='40' weight='40'/>
@@ -49,4 +51,4 @@ I am a data analyst with an ability to work across diverse database management s
   
 
 </p>
-
+---
