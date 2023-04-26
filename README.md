@@ -5,7 +5,7 @@
 <img alt="FOLLOWERS" src="https://img.shields.io/github/followers/paritabrahmbhatt?color=edb0fc&logo=githubb&label=FOLLOWERS"/>
 
 <a href = "https://www.linkedin.com/in/parita-brahmbhatt-908148159/">
-  <img width="22px" alt="Parita's LinkedIn" align="left" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+  <img width="22px" alt="Parita's LinkedIn" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
 <a href="https://github.com/paritabrahmbhatt">
   <img align="left" alt="Parita's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
@@ -22,7 +22,7 @@
 
 I'm a **`Data Science practitioner`**, an **`Software Developer`** and a **`Grad Student`**!
 
-## 💫 About Me: 
+#### 💫 About Me: 
 
 - 👩‍🎓 I am pursuing my Master's Degree in Computer Science from [**Clemson University**](https://www.clemson.edu/) to improve my knowledge in Data Science.
 - 📈 I have a strong interest in utilizing **`machine learning`**, **`predictive analytics`**, and statistical models to tackle unique and challenging business problems.
