@@ -25,9 +25,6 @@ I'm a **`Data Science practitioner`**, an **`Software Developer`** and a **`Grad
 ## 💫 About Me: 
 
 - 👩‍🎓 I am pursuing my Master's Degree in Computer Science from [**Clemson University**](https://www.clemson.edu/) to improve my knowledge in Data Science.
-- 👩🏻‍💻 I’m currently developing a 2-D platformer game.
-- 🌱 I’m intensively developing my skills in machine learning and data visualization.
-- 📫 How to reach me: paritabrahmbhatt1@gmail.com
 - 📈 I have a strong interest in utilizing **`machine learning`**, **`predictive analytics`**, and statistical models to tackle unique and challenging business problems.
 - 🏋󠀢󠀢 It always seems impossible, until it's done...
 - 😄 She/Her
