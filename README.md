@@ -24,8 +24,6 @@ I'm a **`Data Science practitioner`**, an **`Software Developer`** and a **`Grad
 
 ## 💫 About Me: 
 
-I am a data analyst with an ability to work across diverse database management systems. I am working as a Graduate Student Assistant at International Services of Clemson University. I am open to new and exciting Opportunities from May 2023. 
-
 - 👩‍🎓 I am pursuing my Master's Degree in Computer Science from [**Clemson University**](https://www.clemson.edu/) to improve my knowledge in Data Science.
 - 👩🏻‍💻 I’m currently developing a 2-D platformer game.
 - 🌱 I’m intensively developing my skills in machine learning and data visualization.
