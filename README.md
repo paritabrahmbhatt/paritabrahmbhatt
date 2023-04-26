@@ -1,7 +1,7 @@
 # Hello World! 👋
 
 [![PBs Welcome](https://img.shields.io/badge/PRs-welcome-edb0fc.svg?style=flat&logo=github)](https://github.com/paritabrahmbhatt)
-<img alt="VISITORS" src="https://komarev.com/ghpvc/?username=ndleah&style=flat&labelColor=edb0fc&logo=github&label=PROFILE+VIEWS&color=edb0fc"/>
+<img alt="VISITORS" src="https://komarev.com/ghpvc/?username=paritabrahmbhatt&style=flat&labelColor=edb0fc&logo=github&label=PROFILE+VIEWS&color=edb0fc"/>
 <img alt="FOLLOWERS" src="https://img.shields.io/github/followers/paritabrahmbhatt?color=edb0fc&logo=githubb&label=FOLLOWERS"/>
 
 <a href = "https://www.linkedin.com/in/parita-brahmbhatt-908148159/">
