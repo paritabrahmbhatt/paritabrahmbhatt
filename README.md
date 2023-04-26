@@ -1,17 +1,21 @@
 <h1 align="center"> Hi there 👋 I'm Parita Brahmbhatt</h1>
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-971901.svg?style=flat&logo=github)](https://github.com/paritabrahmbhatt)
-<img alt="VISITORS" src="https://komarev.com/ghpvc/?username=paritabrahmbhatt&style=flat&labelColor=red&logo=github&label=PROFILE+VIEWS&color=971901"/>
-<img alt="FOLLOWERS" src="https://img.shields.io/github/followers/paritabrahmbhatt?color=971901&logo=githubb&label=FOLLOWERS"/>
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-15577340.svg?style=flat&logo=github)](https://github.com/paritabrahmbhatt)
+<img alt="VISITORS" src="https://komarev.com/ghpvc/?username=paritabrahmbhatt&style=flat&labelColor=red&logo=github&label=PROFILE+VIEWS&color=15577340"/>
+<img alt="FOLLOWERS" src="https://img.shields.io/github/followers/paritabrahmbhatt?color=15577340&logo=githubb&label=FOLLOWERS"/>
 
-<a href = "https://www.linkedin.com/in/parita-brahmbhatt-908148159/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/parita-brahmbhatt-908148159/">
+  <img width="22px" alt="Parita's LinkedIn" align="left" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+</a>
 <a href="https://github.com/paritabrahmbhatt">
   <img align="left" alt="Parita's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href = "mailto:paritabrahmbhatt1@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail-new.png"/></a>
+<a href = "mailto:paritabrahmbhatt1@gmail.com">
+  <img align="left" alt="Parita's Gmail" width="22px" src="https://img.icons8.com/fluent/48/000000/gmail-new.png"/>
+</a>
 
 ## 💫 About Me: 
-<img style="margin: 0 auto" align='right' height="auto"  width="300" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif"/>
+<img style="margin: 0 auto" align='right' height="auto"  width="350" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif"/>
 I am a data analyst with an ability to work across diverse database management systems. I am working as a Graduate Student Assistant at International Services of Clemson University. I am open to new and exciting Opportunities from May 2023. 
 
 - 🎓 I am pursuing my Master's in Computer Science at Clemson University.
