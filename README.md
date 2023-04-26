@@ -44,7 +44,7 @@ I'm a **`Data Science practitioner`**, an **`Software Developer`** and a **`Grad
   <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/html5.svg height='30' weight='30'/>
   <img src=https://cdn.345tool.com/public/logos/css-formatter-logo.png height='30'  weight='30'/> 
   <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/javascript.svg height='30' weight='30'/>
-  <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+  <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" height='30' weight='30'/> </a> 
 
   
 
