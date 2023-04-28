@@ -47,13 +47,22 @@ I'm a **`Data Science practitioner`**, a **`Software Developer`** and a **`Grad 
 
 </p>
 
+---
+
+### Metrics 📈
+
+![Metrics](https://metrics.lecoq.io/paritabrahmbhatt?template=classic&languages=1&isocalendar=1&achievements=1&activity=1&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&repositories.featured=ndleah%2Fself-quantified-data-analysis%2C%20ndleah%2F8-Week-SQL-Challenge%2C%20ndleah%2Fnorthwind-company-analysis%2C%20ndleah%2Fdvd-rental-marketing-analytics%2C%20ndleah%2Fcurrency-converter%2C%20ndleah%2FData_Explorer_Web_App&config.twemoji=true&config.display=large)
 
 ---
 
+### My GitHub Stats
 
 <a href="http://www.github.com/paritabrahmbhatt"><img src="https://github-readme-streak-stats.herokuapp.com/?user=paritabrahmbhatt&stroke=000000&background=ffffff&ring=ec4899&fire=ec4899&currStreakNum=000000&currStreakLabel=ec4899&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
 
 <a href="http://www.github.com/paritabrahmbhatt"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=paritabrahmbhatt&bg_color=ffffff&color=000000&line=0891b2&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
+---
 
-<a href="https://github.com/paritabrahmbhatt" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paritabrahmbhatt&langs_count=10&title_color=ec4899&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### View more repositories 👇
+
+
