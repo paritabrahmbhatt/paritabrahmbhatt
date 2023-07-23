@@ -20,12 +20,12 @@
 
 <img style="margin: 0 auto" align='right' height="auto"  width="350" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif"/>
 
-I'm a **`Data Science Practitioner`** and a **`Grad Student`**!
+I'm a **`Data Science Practitioner** and a **`Grad Student**, equipped to excel in data-driven insights and cutting-edge research!!
 
 #### 💫 About Me: 
 
 - 👩‍🎓 I am pursuing my master's Degree in Computer Science from [**Clemson University**](https://www.clemson.edu/) to improve my knowledge in Data Science.
-- 📈 I am strongly interested in utilizing **`machine learning`**, **`predictive analytics`**, **`deep learning`**, and statistical models to tackle unique and challenging business problems.
+- 📈 I am interested in utilizing **`machine learning`**, **`predictive analytics`**, **`deep learning`**, and statistical models to tackle unique and challenging business problems.
 - 🏋󠀢󠀢 It always seems impossible until it's done...
 - 😄 She/Her
 
