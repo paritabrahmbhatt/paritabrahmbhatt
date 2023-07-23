@@ -25,7 +25,7 @@ I'm a **`Data Science Practitioner** and a **`Grad Student**, equipped to excel 
 #### 💫 About Me: 
 
 - 👩‍🎓 I am pursuing my master's Degree in Computer Science from [**Clemson University**](https://www.clemson.edu/) to improve my knowledge in Data Science.
-- 📈 I am interested in utilizing **`machine learning`**, **`predictive analytics`**, **`deep learning`**, and statistical models to tackle unique and challenging business problems.
+- 📈 I am interested in utilizing **`machine learning`**, **`predictive analytics`**, **`deep learning,`** and statistical models to tackle unique and challenging business problems.
 - 🏋󠀢󠀢 It always seems impossible until it's done...
 - 😄 She/Her
 
