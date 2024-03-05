@@ -7,12 +7,17 @@
 <a href = "https://www.linkedin.com/in/parita-brahmbhatt-908148159/">
   <img width="22px" alt="Parita's LinkedIn" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
+
+<a href = "https://public.tableau.com/app/profile/parita.brahmbhatt/vizzes">
+  <img width="22px" alt="Parita's LinkedIn" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tableau.svg"/>
+</a>
 <a href="https://github.com/paritabrahmbhatt">
   <img align="left" alt="Parita's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href = "mailto:paritabrahmbhatt1@gmail.com">
   <img align="left" alt="Parita's Gmail" width="22px" src="https://img.icons8.com/fluent/48/000000/gmail-new.png"/>
 </a>
+
 
 </br>
 
