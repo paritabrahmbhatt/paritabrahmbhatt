@@ -9,7 +9,7 @@
 </a>
 
 <a href = "https://public.tableau.com/app/profile/parita.brahmbhatt/vizzes">
-  <img width="22px" alt="Parita's LinkedIn" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tableau.svg"/>
+  <img width="22px" alt="Parita's Tableau Public Profile" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tableau.svg"/>
 </a>
 <a href="https://github.com/paritabrahmbhatt">
   <img align="left" alt="Parita's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
