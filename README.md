@@ -29,7 +29,7 @@ I'm a **`Data Science practitioner`** and a **`Grad Student`**, equipped to exce
 
 #### 💫 About Me: 
 
-- 👩‍🎓 I am pursuing my master's Degree in Computer Science from [**Clemson University**](https://www.clemson.edu/) to improve my knowledge in Data Science.
+- 👩‍🎓 I hold a master's degree in Computer Science from [**Clemson University**](https://www.clemson.edu/).
 - 📈 I am interested in utilizing **`machine learning`**, **`predictive analytics`**, **`deep learning,`** and statistical models to tackle unique and challenging business problems.
 - 🏋󠀢󠀢 It always seems impossible until it's done...
 - 😄 She/Her
