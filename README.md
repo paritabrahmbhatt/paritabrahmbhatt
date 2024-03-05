@@ -25,7 +25,7 @@
 
 <img style="margin: 0 auto" align='right' height="auto"  width="350" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif"/>
 
-I'm a **`Data Science practitioner`** and a **`Grad Student`**, equipped to excel in data-driven insights and cutting-edge research!!
+I'm a **`Research Lab Specialist`** for Clemson University, equipped to excel in data-driven insights and cutting-edge research!!
 
 #### 💫 About Me: 
 
