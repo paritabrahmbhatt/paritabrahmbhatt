@@ -1,9 +1,28 @@
 # Hello World! 👋
 
-[![PBs Welcome](https://img.shields.io/badge/PRs-welcome-edb0fc.svg?style=flat&logo=github)](https://github.com/paritabrahmbhatt)
-<img alt="VISITORS" src="https://komarev.com/ghpvc/?username=paritabrahmbhatt&style=flat&labelColor=edb0fc&logo=github&label=PROFILE+VIEWS&color=edb0fc"/>
-<img alt="FOLLOWERS" src="https://img.shields.io/github/followers/paritabrahmbhatt?color=edb0fc&logo=githubb&label=FOLLOWERS"/>
+</br>
 
+## I'm [**Parita**](https://www.linkedin.com/in/parita-brahmbhatt-908148159/) and welcome to my GitHub profile! :octocat:
+
+<img style="margin: 0 auto" align='right' height="auto"  width="350" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif"/>
+
+### 🔍 Exploring the Frontier of Data Science and Research!
+
+🚀 Research Lab Specialist at [Clemson University](https://www.clemson.edu/), driving innovation through data-driven insights and cutting-edge research.
+
+🎓 Master's in Computer Science, specializing in AI and ML from [Clemson University](https://www.clemson.edu/).
+
+💡 Passionate about leveraging machine learning and deep learning to solve complex business challenges and uncover hidden patterns in data.
+
+📊 Equipped with expertise in **Python**, **R**, **Tableau** and **SQL**, proficient in data manipulation, visualization, and model development.
+
+🏋 "It always seems impossible until it's done..." - Embracing challenges and pushing the boundaries of what's possible.
+
+😄 Pronouns: She/Her
+
+</br>
+
+### 🌐 Connect with Me:
 <a href = "https://www.linkedin.com/in/parita-brahmbhatt-908148159/">
   <img width="22px" alt="Parita's LinkedIn" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
@@ -19,24 +38,6 @@
 <a href = "mailto:paritabrahmbhatt1@gmail.com">
   <img align="left" alt="Parita's Gmail" width="22px" src="https://img.icons8.com/fluent/48/000000/gmail-new.png"/>
 </a>
-
-
-</br>
-
-## I'm [**Parita**](https://www.linkedin.com/in/parita-brahmbhatt-908148159/) and welcome to my GitHub profile! :octocat:
-
-<img style="margin: 0 auto" align='right' height="auto"  width="350" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif"/>
-
-I'm a **`Research Lab Specialist`** for Clemson University, equipped to excel in data-driven insights and cutting-edge research!!
-
-#### 💫 About Me: 
-
-- 👩‍🎓 I hold a master's degree in Computer Science from [**Clemson University**](https://www.clemson.edu/).
-- 📈 I am interested in utilizing **`machine learning`**, **`predictive analytics`**, **`deep learning,`** and statistical models to tackle unique and challenging business problems.
-- 🏋󠀢󠀢 It always seems impossible until it's done...
-- 😄 She/Her
-
-
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **Languages and Tools:**
 <p align="left"> 
 <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png height='30' weight='30'/>
@@ -63,6 +64,14 @@ I'm a **`Research Lab Specialist`** for Clemson University, equipped to excel in
 
 
 ---
+
+[![PBs Welcome](https://img.shields.io/badge/PRs-welcome-edb0fc.svg?style=flat&logo=github)](https://github.com/paritabrahmbhatt)
+<img alt="VISITORS" src="https://komarev.com/ghpvc/?username=paritabrahmbhatt&style=flat&labelColor=edb0fc&logo=github&label=PROFILE+VIEWS&color=edb0fc"/>
+<img alt="FOLLOWERS" src="https://img.shields.io/github/followers/paritabrahmbhatt?color=edb0fc&logo=githubb&label=FOLLOWERS"/>
+
+
+
+</br>
 
 ### View more repositories 👇
 
