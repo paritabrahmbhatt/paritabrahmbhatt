@@ -1,8 +1,4 @@
-# Hello World! 👋
-
-</br>
-
-## I'm [**Parita**](https://www.linkedin.com/in/parita-brahmbhatt-908148159/) and welcome to my GitHub profile! :octocat:
+# Hello World! 👋 I'm [**Parita**](https://www.linkedin.com/in/parita-brahmbhatt-908148159/)! :octocat:
 
 <img style="margin: 0 auto" align='right' height="auto"  width="350" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif"/>
 
@@ -22,22 +18,7 @@
 
 </br>
 
-### 🌐 Connect with Me:
-<a href = "https://www.linkedin.com/in/parita-brahmbhatt-908148159/">
-  <img width="22px" alt="Parita's LinkedIn" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
-</a>
 
-<a href = "https://public.tableau.com/app/profile/parita.brahmbhatt/vizzes">
-  <img width="22px" alt="Parita's Tableau Public Profile" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tableau.svg"/>
-</a>
-
-<a href="https://github.com/paritabrahmbhatt">
-  <img align="left" alt="Parita's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-
-<a href = "mailto:paritabrahmbhatt1@gmail.com">
-  <img align="left" alt="Parita's Gmail" width="22px" src="https://img.icons8.com/fluent/48/000000/gmail-new.png"/>
-</a>
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **Languages and Tools:**
 <p align="left"> 
 <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png height='30' weight='30'/>
@@ -54,14 +35,30 @@
   
 
 </p>
+</br>
 
----
+### 🌐 Connect with Me:
+<a href = "https://www.linkedin.com/in/parita-brahmbhatt-908148159/">
+  <img width="22px" alt="Parita's LinkedIn" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+</a>
+
+<a href = "https://public.tableau.com/app/profile/parita.brahmbhatt/vizzes">
+  <img width="22px" alt="Parita's Tableau Public Profile" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tableau.svg"/>
+</a>
+
+<a href="https://github.com/paritabrahmbhatt">
+  <img align="left" alt="Parita's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+
+<a href = "mailto:paritabrahmbhatt1@gmail.com">
+  <img align="left" alt="Parita's Gmail" width="22px" src="https://img.icons8.com/fluent/48/000000/gmail-new.png"/>
+</a>
+
+</br>
 
 ### My GitHub Stats
 
 <a href="http://www.github.com/paritabrahmbhatt"><img src="https://github-readme-streak-stats.herokuapp.com/?user=paritabrahmbhatt&stroke=000000&background=ffffff&ring=ec4899&fire=ec4899&currStreakNum=000000&currStreakLabel=ec4899&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
-
-
 
 ---
 
