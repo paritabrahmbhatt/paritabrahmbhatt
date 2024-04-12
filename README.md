@@ -18,7 +18,7 @@
 
 
 ---
-</br>
+
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **Languages and Tools:**
 <p align="left"> 
@@ -54,8 +54,9 @@
   <img align="left" alt="Parita's Gmail" width="22px" src="https://img.icons8.com/fluent/48/000000/gmail-new.png"/>
 </a>
 
-</br>
+
 ---
+
 
 ### My GitHub Stats
 
