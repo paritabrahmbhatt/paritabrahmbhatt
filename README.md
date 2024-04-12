@@ -35,7 +35,7 @@
 
 </p>
 
----
+
 
 ### 🌐 Connect with Me:
 <a href = "https://www.linkedin.com/in/parita-brahmbhatt-908148159/">
@@ -54,8 +54,6 @@
   <img align="left" alt="Parita's Gmail" width="22px" src="https://img.icons8.com/fluent/48/000000/gmail-new.png"/>
 </a>
 
-
----
 
 
 ### My GitHub Stats
